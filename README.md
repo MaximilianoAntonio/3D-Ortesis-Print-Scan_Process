@@ -1,46 +1,38 @@
 
-# Proceso para el Escaneo 3D y Fabricación de Ortesis Personalizadas
+# Process for 3D Scanning and Manufacturing of Custom Orthotics
 
-Repositorio de escaneo 3D de humanos y el posterior post-procesado digital para la impresión 3D de ortesis, así como el post-procesado físico para el uso de estas ortesis.
+Repository for 3D scanning of humans and subsequent digital post-processing for 3D printing of orthotics, as well as the physical post-processing for the use of these orthotics.
 
-## Descripción del Proyecto
+## Project Description
 
-El enfoque principal ha sido el **Post-procesado digital de los escaneos realizados**, explorando su aplicación en la fabricación personalizada de ortesis. Con el respaldo y los recursos proporcionados por el **FabLab UV**, el objetivo último es contribuir al desarrollo de tecnologías avanzadas en el ámbito de las ortesis personalizadas y accesibles.
+The main focus has been on the **digital post-processing of the scans performed**, exploring its application in the custom manufacturing of orthotics. With the support and resources provided by **FabLab UV**, the ultimate goal is to contribute to the development of advanced technologies in the field of custom and accessible orthotics.
 
-## Objetivos del Proyecto Actual
+## Current Project Objectives
 
-1. **Escaneo 3D:**
-   Utilizando diversos escáneres, ya sean especializados o no, podemos obtener resultados similares, ya que no se requiere una precisión extrema. Además, hemos recopilado los datos necesarios para realizar el escaneo tridimensional de la anatomía humana, asegurando la correcta posición de la parte a escanear.
+1. **3D Scanning:**
+   Using various scanners, whether specialized or not, we can obtain similar results as extreme precision is not required. Additionally, we have collected the necessary data to perform the three-dimensional scan of the human anatomy, ensuring the correct positioning of the part to be scanned.
 
-2. **Procesamiento para Modelado 3D:**
-   Implementamos algoritmos para filtrar y preparar los datos capturados, facilitando así el modelado 3D preciso en diversos software de modelado.
+2. **Processing for 3D Modeling:**
+   We implemented algorithms to filter and prepare the captured data, thus facilitating precise 3D modeling in various modeling software.
 
-3. **Impresión 3D de Ortesis Personalizadas:**
-   Exploramos la integración en el diseño personalizado de ortesis, lo que permite la fabricación precisa y adaptada a las necesidades individuales, teniendo en cuenta el material deseado para las condiciones en las que será utilizada.
+3. **3D Printing of Custom Orthotics:**
+   We explored integration in the custom design of orthotics, allowing precise manufacturing tailored to individual needs, taking into account the desired material for the conditions in which it will be used.
 
-4. **Post-procesado Físico de Ortesis Impresas:**
-   Desarrollamos métodos para el post-procesado físico de las ortesis impresas, asegurando un ajuste cómodo y funcional.
+4. **Physical Post-Processing of Printed Orthotics:**
+   We developed methods for the physical post-processing of printed orthotics, ensuring a comfortable and functional fit.
     
 
-## Estructura del Repositorio
+## Repository Structure
 
--   **/Escaneo 3D:** Contiene los conjuntos de datos utilizados en el proyecto, como estudios e imágenes referenciales en que posición realizar el escaneo 3D.
+- **/3D Scanning:** Contains the datasets used in the project, such as studies and reference images on the position to perform the 3D scan.
     
--   **/Modelado 3D:** Aquí encontrarás diversos estudios y formas de hacer el procesamiento y el modelado 3D para que sea funcional y resistente.
+- **/3D Modeling:** Here you will find various studies and methods for processing and 3D modeling to ensure functionality and durability.
     
--   **/Impresión 3D:** Parámetros óptimos para la impresión de la ortesis como materiales ideales dependiendo del uso que se le dará.
+- **/3D Printing:** Optimal parameters for printing the orthotic, such as ideal materials depending on the intended use.
 
-   -   **/Post-procesado Físico:** Documentación detallada sobre el Post-procesado Físico, incluyendo instrucciones de reproducción y explicaciones sobre los métodos implementados.
+- **/Physical Post-Processing:** Detailed documentation on the physical post-processing, including reproduction instructions and explanations of the implemented methods.
     
--   **/Resultados:** Incluye visualizaciones, modelos 3D y imágenes del proceso de creación de una ortesis.
-    
-
-## Replicado y Uso del Proyecto
-
-Este proyecto está abierto al libre uso y replicado con el objetivo de mejorar la fabricación de ortesis personalizadas. Si encuentras áreas de mejora o tienes ideas para ampliar este proyecto, no dudes en abrir un problema o enviar una solicitud de extracción. La colaboración enriquecerá aún más este trabajo.
-
-¡Gracias por tu interés!
-
+- **/Results:** Includes visualizations, 3D models, and images of the orthotic creation process.
 <h3 align="left">Redes Fablab UV:</h3>
 <p align="left">
 <a href="https://instagram.com/fablabuv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fablabuv" height="30" width="40" /></a>
