@@ -30,8 +30,5 @@ The main focus has been on the **digital post-processing of the scans performed*
     
 - **/3D Printing:** Optimal parameters for printing the orthotic, such as ideal materials depending on the intended use.
 
-- **/Physical Post-Processing:** Detailed documentation on the physical post-processing, including reproduction instructions and explanations of the implemented methods.
     
-- **/Results:** Includes visualizations, 3D models, and images of the orthotic creation process.
-
 </p>
